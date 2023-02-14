@@ -8,13 +8,13 @@ In our social media platform we use many technologies that do not exist anywhere
 ## Techstack Backend
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=kotlin,java,rust,sql)
+![Languages](https://skillicons.dev/icons?i=kotlin,java,rust,bash,sql)
 
 ### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=tensorflow,ktor)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,redis)
+![Databases](https://skillicons.dev/icons?i=postgres,citus,redis)
 
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes)
