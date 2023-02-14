@@ -14,7 +14,7 @@ In our social media platform we use many technologies that do not exist anywhere
 ![Frameworks](https://skillicons.dev/icons?i=tensorflow,ktor)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,citus,redis)
+![Databases](https://skillicons.dev/icons?i=postgres,redis)
 
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes)
