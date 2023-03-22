@@ -11,7 +11,7 @@ In our social media platform we use many technologies that do not exist anywhere
 ![Languages](https://skillicons.dev/icons?i=kotlin,java,python,bash,sql)
 
 ### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=tensorflow,ktor)
+![Frameworks](https://skillicons.dev/icons?i=tensorflow,ktor,flask)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,redis)
